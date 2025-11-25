@@ -1,3 +1,5 @@
-usage:
-source run_fifo.tcl
-source run_bank.tcl
+# usage: 
+## run fifo_sync testbench:
+source run_fifo.tcl  
+## run fifo_bank testbench:
+source run_bank.tcl  
