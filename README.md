@@ -1,5 +1,3 @@
 usage:
-    // for FIFO test
-    source run_fifo.tcl
-    // for FourBank
-    source run_bank.tcl
+source run_fifo.tcl
+source run_bank.tcl
